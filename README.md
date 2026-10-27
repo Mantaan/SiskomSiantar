@@ -214,4 +214,5 @@ Setelah selesai uji coba, hapus file `setup_akun_demo.php` dan akun-akun demo
 tersebut (lewat menu Data Siswa untuk siswa, atau phpMyAdmin untuk guru) sebelum
 dipakai secara nyata di sekolah.
 #   S i s k o m S i a n t a r  
+ #   S i s k o m S i a n t a r  
  
